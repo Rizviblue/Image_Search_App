@@ -39,3 +39,6 @@ This app enables users to enter a keyword and view related images.
 image-search/ │ ├── index.html ├── style.css ├── script.js └── README.md
 
 ---
+
+## 🙋‍♂️ Made with ❤️ by Rizviblue!
+
